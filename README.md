@@ -1,4 +1,4 @@
-# [Tenzies Game]()
+# [Tenzies Game](https://marcin-depcik.github.io/tenzies-game/)
 
 ## Table of contents
 
